@@ -1,0 +1,14 @@
+<bugreport>
+  <title>not possible to choose a delivery method</title>
+  <id>01</id>
+  <author>kusmartsev</author>
+  <stepstoreproduce>
+    <step01>Select an item in the catalog</step01>
+    <step02>add the item to the cart</step02>
+    <step03>pay for the item by the 'Chekout' button</step03>
+    <step04>click on the 'Delivery method' button</step04>  
+  </stepstoreproduce>
+  <actualresult>nothing happens on the page</actualresult>
+  <expectedresult>the user chooses the delivery method</expectedresult>
+  <severity>blocker</severity>
+ </bugreport>
